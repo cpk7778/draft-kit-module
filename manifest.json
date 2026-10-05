@@ -15,6 +15,26 @@
           "size": 6544434
         }
       ]
+    },
+    "pglite": {
+      "version": "0.5.4",
+      "files": [
+        {
+          "path": "pglite/0.5.4/pglite.wasm",
+          "sha256": "a20a37e2eb30553ae44f728001f0ead1b32cdcd53ab21f81fa2117b2947ef599",
+          "size": 10087563
+        },
+        {
+          "path": "pglite/0.5.4/pglite.data",
+          "sha256": "e39943c245ec32c36ed89bd5000229c8f3874983db93b7081d949155aaefaebf",
+          "size": 6293225
+        },
+        {
+          "path": "pglite/0.5.4/initdb.wasm",
+          "sha256": "aa134fde5c96733ff9ab9644f409d9337ae7b3f42a66914a4dad2beec03824df",
+          "size": 395059
+        }
+      ]
     }
   }
 }
