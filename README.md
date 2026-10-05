@@ -8,5 +8,8 @@ GitHub Pages(`https://cpk7778.github.io/draft-kit-module/`)로 서비스하며, 
 |---|---|---|---|
 | coolprop | 6.6.0 | `coolprop/6.6.0/coolprop.js`, `coolprop.wasm` | MIT (CoolProp) |
 | pglite | 0.5.4 | `pglite/0.5.4/pglite.wasm`, `pglite.data`, `initdb.wasm` | Apache-2.0 (PGlite) |
+| connectors | 1.0.0 (protocol 1) | `connectors/1.0.0/draft-kit-connectors.exe` | 앱 코드 + 각 Rust 크레이트 라이선스(아래) |
 
 파일을 바꿀 때는 새 버전 폴더를 만들고 `manifest.json`의 version·sha256·size를 같이 갱신합니다.
+
+`connectors`는 Kafka·OPC UA·서버 DB(Postgres/MySQL/MariaDB/MSSQL) 연결을 맡는 Windows x64 실행 파일입니다. 데스크톱 앱이 받아서 앱 데이터 폴더에 저장하고 실행합니다.

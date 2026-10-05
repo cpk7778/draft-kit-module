@@ -35,6 +35,17 @@
           "size": 395059
         }
       ]
+    },
+    "connectors": {
+      "version": "1.0.0",
+      "protocol": 1,
+      "files": [
+        {
+          "path": "connectors/1.0.0/draft-kit-connectors.exe",
+          "sha256": "297ef001ab2f634539e692c6867ff0befa3ab5c9288cb42a3b1becf24d1e9108",
+          "size": 9726976
+        }
+      ]
     }
   }
 }
