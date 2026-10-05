@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "modules": {
+    "coolprop": {
+      "version": "6.6.0",
+      "files": [
+        {
+          "path": "coolprop/6.6.0/coolprop.js",
+          "sha256": "2351f097bfc17fc6555c895dcc8d78b152e450aab940c0d768311046575fb591",
+          "size": 60911
+        },
+        {
+          "path": "coolprop/6.6.0/coolprop.wasm",
+          "sha256": "ba7481b953c57b2d3ce77df3d351fd589f534f8f660a3adcd35afc95fd50ce8d",
+          "size": 6544434
+        }
+      ]
+    }
+  }
+}
