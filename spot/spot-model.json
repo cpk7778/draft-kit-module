@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "name": "Spot (간략 모델)",
+  "body": [0.84, 0.18, 0.3],
+  "hip": [0.3, 0.12],
+  "thigh": 0.32,
+  "shin": 0.34,
+  "thick": 0.06,
+  "head": [0.16, 0.14, 0.2],
+  "bodyColor": "#f6c400",
+  "darkColor": "#4a505a"
+}
