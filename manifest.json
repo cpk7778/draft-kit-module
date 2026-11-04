@@ -56,6 +56,26 @@
           "size": 234
         }
       ]
+    },
+    "ocr": {
+      "version": "7.0.0",
+      "files": [
+        {
+          "path": "ocr/7.0.0/tesseract-worker.min.js",
+          "sha256": "576b7df7e3393e137e51849357c9adb53fe7ac1bb69bfa06cf3d61520f182c6d",
+          "size": 111307
+        },
+        {
+          "path": "ocr/7.0.0/tesseract-core-simd-lstm.wasm.js",
+          "sha256": "c58b46a4c796c0b8afccf77591d5b875b6896b45d402bbce8caa6f5362447b38",
+          "size": 3899472
+        },
+        {
+          "path": "ocr/7.0.0/eng.traineddata.gz",
+          "sha256": "45b4cb346724ac1774f1c36f42f182b887bcdb28ebe63e6fff90ac41f3fcff91",
+          "size": 2952873
+        }
+      ]
     }
   }
 }
