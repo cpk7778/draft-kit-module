@@ -47,16 +47,6 @@
         }
       ]
     },
-    "spot": {
-      "version": "1.0.0",
-      "files": [
-        {
-          "path": "spot/spot-model.json",
-          "sha256": "fe849202f53b13e9900d04f8e59ca630972603cd0bd5ac7e60b2d071b7af82ee",
-          "size": 234
-        }
-      ]
-    },
     "ocr": {
       "version": "7.0.0",
       "files": [
