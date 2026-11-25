@@ -23,3 +23,4 @@ Windows x64 실행 파일 하나에 아래 구성요소가 정적으로 들어 �
 - `ocr/7.0.0/tesseract-worker.min.js` — tesseract.js 7.0.0 (Apache License 2.0) https://github.com/naptha/tesseract.js
 - `ocr/7.0.0/tesseract-core-simd-lstm.wasm.js` — tesseract.js-core 7.0.0 (Apache License 2.0), Tesseract OCR 엔진(Apache License 2.0) https://github.com/naptha/tesseract.js-core
 - `ocr/7.0.0/eng.traineddata.gz` — @tesseract.js-data/eng 1.0.0의 4.0.0_best_int, tessdata_best 영어 모델(Apache License 2.0) https://github.com/tesseract-ocr/tessdata_best
+- `ocr/7.0.1/` — 위 세 파일과 같은 파일 + `kor.traineddata.gz` — @tesseract.js-data/kor 1.0.0의 4.0.0_best_int, tessdata_best 한국어 모델(Apache License 2.0) https://github.com/tesseract-ocr/tessdata_best

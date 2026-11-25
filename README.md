@@ -8,7 +8,7 @@ GitHub Pages(`https://cpk7778.github.io/draft-kit-module/`)로 서비스하며, 
 |---|---|---|---|
 | coolprop | 6.6.0 | `coolprop/6.6.0/coolprop.js`, `coolprop.wasm` | MIT (CoolProp) |
 | pglite | 0.5.4 | `pglite/0.5.4/pglite.wasm`, `pglite.data`, `initdb.wasm` | Apache-2.0 (PGlite) |
-| ocr | 7.0.0 | `ocr/7.0.0/tesseract-worker.min.js`, `tesseract-core-simd-lstm.wasm.js`, `eng.traineddata.gz` | Apache-2.0 (tesseract.js · Tesseract · tessdata) |
+| ocr | 7.0.1 | `ocr/7.0.1/tesseract-worker.min.js`, `tesseract-core-simd-lstm.wasm.js`, `eng.traineddata.gz`, `kor.traineddata.gz` (7.0.0은 영어만 — 이미 받은 앱이 계속 읽도록 남겨 둠) | Apache-2.0 (tesseract.js · Tesseract · tessdata) |
 | connectors | 1.0.0 (protocol 1) | `connectors/1.0.0/draft-kit-connectors.exe` | 앱 코드 + 각 Rust 크레이트 라이선스(아래) |
 
 파일을 바꿀 때는 새 버전 폴더를 만들고 `manifest.json`의 version·sha256·size를 같이 갱신합니다.
